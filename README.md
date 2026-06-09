@@ -74,30 +74,6 @@ sql-business-analytics-project/
 
 ---
 
-## Analytical Techniques Used
-
-### Change Over Time Analysis
-
-Evaluates trends and performance across different time periods.
-
-### Cumulative Analysis
-
-Calculates running totals and cumulative business metrics.
-
-### Performance Analysis
-
-Measures sales effectiveness and business performance indicators.
-
-### Data Segmentation
-
-Groups customers and products into meaningful business categories.
-
-### Part-to-Whole Analysis
-
-Measures contribution percentages across products and categories.
-
----
-
 ## Reporting Views
 
 ### Customer Report
@@ -161,14 +137,6 @@ Product Categories:
 
 ---
 
-## Future Improvements
-
-* Power BI Dashboard Integration
-* Predictive Customer Segmentation
-* Sales Forecasting
-* Automated Reporting Pipelines
-
----
 
 ## Author
 
