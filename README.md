@@ -1,9 +1,5 @@
 # 📊 SQL Business Analytics Project
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-blue?style=flat)
-![Analytics](https://img.shields.io/badge/Focus-Business%20Analytics-informational?style=flat)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
 A SQL-based business analytics project built on top of a structured Data Warehouse. It transforms Gold layer data into actionable insights through a series of analytical modules — covering sales trends, customer segmentation, product performance, and executive-level reporting views.
 
